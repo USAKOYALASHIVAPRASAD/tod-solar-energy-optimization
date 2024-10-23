@@ -1,0 +1,12 @@
+/* src/App.css */
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+.app-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+}
